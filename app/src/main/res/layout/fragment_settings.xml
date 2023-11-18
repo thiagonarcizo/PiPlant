@@ -84,7 +84,7 @@
         android:layout_marginTop="20dp"
         android:gravity="right"
         android:textSize="16dp"
-        android:text="Beta 1.2 (09/10/2023)" />
+        android:text="1.0" />
 
     <ImageView
         android:id="@+id/logo"
